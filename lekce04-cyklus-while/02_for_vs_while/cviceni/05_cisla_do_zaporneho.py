@@ -5,3 +5,11 @@
 #    Pak vypiš, kolik čísel stihl zadat.
 
 
+pocet = 0
+cislo = int(input("Zadej cislo:"))
+while cislo >= 0:
+    pocet = pocet + 1
+    cislo = int(input("Zadej číslo: "))
+print("Počet zadaných čísel před tím záporným:", pocet)
+
+

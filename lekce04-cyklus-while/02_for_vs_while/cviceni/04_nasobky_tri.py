@@ -4,3 +4,6 @@
 # Vypiš prvních deset násobků čísla 3 (3, 6, 9, ... 30).
 
 
+for cislo in range (3,31,3):
+        print(cislo)
+    
