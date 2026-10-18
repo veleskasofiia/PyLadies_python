@@ -5,3 +5,8 @@
 #    dokud nenapíše "Praha". Pak vypiš "Správně!".
 
 
+zadej_mesto = input("Jaké je hlavní město Česka?")
+while zadej_mesto != "Praha":
+    print("spatne heslo")
+    zadej_mesto = input("Jaké je hlavní město Česka?")
+    print("ano")
