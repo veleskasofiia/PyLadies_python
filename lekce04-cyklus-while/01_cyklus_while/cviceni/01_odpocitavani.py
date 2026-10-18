@@ -5,15 +5,15 @@
 
 # 998 -5 
 
-# cislo = 10
-# while cislo >= 1:
-#     print (cislo)
-#     cislo = cislo - 1
-# print ("Start")
+cislo = 10
+while cislo >= 1:
+    print (cislo)
+    cislo = cislo - 1
+print ("Start")
 
 
-# cislo = 998
-# while cislo >= 5:
-#     print(cislo)
-#     cislo = cislo - 100
-# print("Start")
+cislo = 998
+while cislo >= 5:
+    print(cislo)
+    cislo = cislo - 100
+print("Start")
