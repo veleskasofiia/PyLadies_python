@@ -12,6 +12,7 @@ from random import randrange
 
 hadane_cislo = randrange(1, 21)
 pokusy = 0
+pokus = pokus - 1
 while True:
     odpoved = int(input("Hádej číslo od 1 do 20: "))
     pokusy = pokusy + 1
