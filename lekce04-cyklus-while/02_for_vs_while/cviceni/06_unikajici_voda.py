@@ -13,3 +13,4 @@ while voda > 0:
     minuta = minuta + 1
     print("Po", minuta, "minutách zbývá", voda, "litrů.")
 print("Nádrž je prázdná po", minuta, "minutách.")   
+ 

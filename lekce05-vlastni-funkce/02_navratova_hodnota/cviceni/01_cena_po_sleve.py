@@ -30,7 +30,7 @@
 
 # cena_po_sleve = sleva_na_nakup(999,21)
 # print("cena_po_sleve:", cena_po_sleve )
-
+ 
 
 
 
