@@ -18,21 +18,16 @@
 #     else:
 #         return True
         
-# vek = int(input("Сколько тебе лет?"))
+# vek = int(input("Kolik je ti let?"))
 # result = je_plnoleta(vek)
 
 # if not(result):
-#     print("Можешь идти дальше.")
+#     print("Můžeš dál.")
 # else:
-#     print("щё нет")
+#     print("Ještě ne")
 
 
 
-
-def je_plnotela(vek): 
-    return vek >= 18 ? true : false
-vek = int(input("Kolik ti jest? \r\n"))
-je_plnotela(vek) == true ? print(''next") : print("go")
 
 
 

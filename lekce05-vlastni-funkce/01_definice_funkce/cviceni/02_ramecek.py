@@ -7,5 +7,21 @@
 # Můžeš v ní použít oddelovac() z prvního úkolu – zkopíruj si jeho
 # definici sem nahoru, soubory se navzájem nevidí.
 
-def ramecek():
-    if 
+# def oddelovac ():
+#     print("*"*30)
+
+# for radek in range(3):
+#     oddelovac()
+
+
+
+def oddelovac():
+    print("*"*30)
+
+def ramecek(text):
+    oddelovac()
+    print(text)
+    oddelovac()
+
+ramecek("text1")
+ramecek("text2")
